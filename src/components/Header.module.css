@@ -1,0 +1,26 @@
+.headerContainer {
+    height: 200px;
+    background: var(--gray-700);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    font-size: 2.857rem;
+    gap: 0.857rem;
+}
+
+.header p {
+    color: var(--blue-300);
+}
+
+.header span {
+    color: var(--purple-300);
+}
+
+
