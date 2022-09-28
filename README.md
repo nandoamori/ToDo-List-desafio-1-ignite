@@ -17,7 +17,11 @@ Consiste em um ToDo-list onde é possível:
 <br>
 <p align="center">
 
-https://user-images.githubusercontent.com/97182713/192663131-1bba6dd3-5068-48c9-bdef-af7d7cc631cf.mp4
+
+
+https://user-images.githubusercontent.com/97182713/192663424-68b8d7f0-85f8-47d7-8ffc-86cb844c5f4d.mp4
+
+
 
 
 
